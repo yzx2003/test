@@ -1,0 +1,7 @@
+train: D:\yolov8_all\yolo11\climb_railings_yolo11\DataFrom\train\images  # 训练集图片路径
+val: D:\yolov8_all\yolo11\climb_railings_yolo11\DataFrom\valid\images      # 验证集图片路径（可选，无则与 train 同）
+train_labels: D:\yolov8_all\yolo11\climb_railings_yolo11\DataFrom\valid\labels
+val_labels: D:\yolov8_all\yolo11\climb_railings_yolo11\DataFrom\train\labels
+
+names:
+  0: wave
